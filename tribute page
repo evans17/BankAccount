@@ -1,0 +1,16 @@
+<div class="container-fluid">
+  <div class = "row text-center">
+    <h1 class='text-primary'>Dalai lama quotes</h1>
+    <br></br>
+  
+ <p>the quotes display goes here</p>
+   <div class="well">
+     <p class="quote-text"></p>
+     <p class"author-text"></p>
+    </div>
+    <div class = link><a href="https://www.brainyquote.com/quotes/quotes/d/dalailama166116.html">
+     <button type="button" class="btn btn-primary" id="quote">New Quote</button>
+  <a class="twitter-share-button" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fpo.st%2FeY5aRb&text=Dalai%20Lama%20Quotes&via=BrainyQuote data-size="large" target="_blank">
+    <button type="button" class="btn btn-primary">Tweet it!</button>
+  </a>
+</div>
